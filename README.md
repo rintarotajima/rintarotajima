@@ -1,4 +1,6 @@
-Thank you to coming to this account.
+I'm Rintaro Tajima. 22 years old. 
+I've been programming for six months.
+I'm looking forward to meeting many people through programming.
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=solarized-light&show_icons=ture" />
