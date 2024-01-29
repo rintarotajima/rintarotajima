@@ -1,4 +1,4 @@
-
+Thank you to coming to this account.
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=solarized-light&show_icons=ture" />
