@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Rintaro</h2>
 <p align="left">
   I've been coding since Augest 2023 and I'm a junior at University. 
-  (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=solarized-light&show_icons=ture" />
