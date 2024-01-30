@@ -7,7 +7,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=solarized-light" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=rintarotajima)
+![](https://komarev.com/ghpvc/?username=rintarotajima&color=yellow)
 
 <!--
 **rintarotajima/rintarotajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
