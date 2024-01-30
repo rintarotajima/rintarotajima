@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Rintaro</h2>
 <p align="left">
-  I've been coding since Augest 2023 and I'm a junior at University. (https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+  I've been coding since Augest 2023 and I'm a junior at University. 
 
 </p>
 <h2 align="left">Status</h2>
