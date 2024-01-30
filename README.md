@@ -1,4 +1,4 @@
-- I'm Rintaro Tajima. 22 years old. 
+- I'm Rintaro Tajima. 
 - I've been programming for six months.
 - I'm looking forward to meeting many people through programming.
 
@@ -6,6 +6,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=solarized-light&show_icons=ture" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=solarized-light" />
 </p>
+![](https://komarev.com/ghpvc/?username=rintarotajima)
 <!--
 **rintarotajima/rintarotajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
