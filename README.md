@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Rintaro</h2>
 <p align="left">
   I've been coding since Augest 2023 and I'm a junior at University. 
-
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 <h2 align="left">Status</h2>
 <p align="left"> 
