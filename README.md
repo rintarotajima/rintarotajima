@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋, I'm Rintaro</h2>
 <p align="left">
   I've been coding since Augest 2023 and I'm a junior at University. 
+</p>
+<p align="left">
   <img alt="", src="https://skillicons.dev/icons?i=js,html,css,ruby,python">
 </p>
 <h2 align="left">Status</h2>
