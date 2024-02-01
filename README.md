@@ -5,6 +5,7 @@
 </p>
 
 <p align="left">
+  I wanna learn it.
   <img alt="", src="https://skillicons.dev/icons?i=python,django,js,vue">
 </p>
 
