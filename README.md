@@ -8,6 +8,6 @@ I wanna learn
 ## Status
 
 <p align="left">
-  <img alt="Top Langs" height="150px",width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="GitHub stats" height="150px",width="400px", src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="150px",width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=yeblu" />
+  <img alt="GitHub stats" height="150px",width="400px", src="https://github-readme-stats.vercel.app/api?username=rintarotajima&k&show_icons=true&theme=yeblu" />
 </p>
