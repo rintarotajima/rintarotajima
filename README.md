@@ -10,12 +10,8 @@
 </p>
 
 <h2 align="left">Status</h2>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rintarotajima&/>
-</a>
-<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rintarotajima>
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rintarotajima>
 
 
 
