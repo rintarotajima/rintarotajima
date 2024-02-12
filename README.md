@@ -1,4 +1,4 @@
-# Hi, I'm Rintaro
+# Hi 👋, I'm Rintaro
 
 I've been coding since August 2023 and I'm a junior at University.
 
@@ -7,5 +7,7 @@ I wanna learn
 
 ## Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=onedark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=onedark&show_icons=true)
+<p align="center">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=onedark&show_icons=true" />
+</p>
