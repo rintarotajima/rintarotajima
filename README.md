@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="left">Status</h2>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rintarotajima)](https://github.com/rintarotajima/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rintarotajima)]
 
 
 
