@@ -7,12 +7,5 @@ I wanna learn
 
 ## Status
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div>
-    <img alt="Top Langs" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&show_icons=true&theme=yeblu" />
-  </div>
-  <div>
-    <img alt="GitHub stats" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&k&show_icons=true&theme=yeblu" />
-  </div>
-</div>
-
+[![rintarotajima's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintarotajima&count_private=true&show_icons=true&theme=yeblu)](https://github.com/rintarotajima/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&theme=yeblu)](https://github.com/rintarotajima/)
