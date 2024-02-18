@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/rintarotajima">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Rintaro Tajima /">
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shippori+Antique+B1&pause=1000&color=783BF7&random=false&width=435&lines=Thank+you+for+coming+to+my+Github.)](https://git.io/typing-svg)
 
 I've been coding since August 2023 and I'm a junior at University.
 
