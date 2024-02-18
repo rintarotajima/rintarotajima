@@ -2,7 +2,7 @@
 
 I've been coding since August 2023 and I'm a junior at University.
 
-I'm currently learning 
+## Languages and tools
 ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)
 
 ## Status
