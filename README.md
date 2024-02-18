@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shippori+Antique+B1&pause=1000&color=783BF7&random=false&width=435&lines=Thank+you+for+coming+to+my+Github.)](https://git.io/typing-svg)
 
-I've been coding since August 2023 and I'm a junior at University.
+
+###### I've been coding since August 2023 and I'm a junior at University.
 
 ## Languages and tools
 ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)
