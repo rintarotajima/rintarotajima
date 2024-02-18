@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+rintaro+tajima)](https://git.io/typing-svg)
+<center>
+  [![Rintaro Tajima](https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png)](https://github.com/rintarotajima)
+</center>
 
 I've been coding since August 2023 and I'm a junior at University.
 
