@@ -25,7 +25,7 @@
   <a href="https://github.com/rintarotajima/" style="flex: 1;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&count_private=true&show_icons=true&theme=yeblu" alt="rintarotajima's GitHub stats" height="200px"  />
   </a>
-  <a href="https://github.com/rintarotajima/" style="flex: 1;">
+  <a href="https://github.com/rintarotajima/" style="flex: 2;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarotajima&layout=compact&theme=yeblu" alt="Top used Langs" height="200px" />
   </a>
 </div>
