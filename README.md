@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&show_icons=true&theme=calm&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&show_icons=true&theme=nowd&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rintarotajima&layout=compact&theme=calm&langs_count=8&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rintarotajima&layout=compact&theme=nowd&langs_count=8&card_width=100" />
 </a>
