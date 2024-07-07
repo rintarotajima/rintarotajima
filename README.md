@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Current Project
-I'm currently developing a Chrome extension using React. You can find the repository [404-redirector](https://github.com/rintarotajima/404-redicetor).
+I'm currently developing a Chrome extension using React. You can find the repository [404-redirector](https://github.com/rintarotajima/404-redirector).
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rintarotajima&layout=compact&bg_color=00000000" />
