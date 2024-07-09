@@ -18,7 +18,6 @@ I'm currently developing a Chrome extension using React. You can find the reposi
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
-### FrameWorks
 
 ## 📈 Github Stats
 <p align="left"> 
