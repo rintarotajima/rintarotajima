@@ -12,10 +12,10 @@
 
 
 ## ⚡ Skills
-![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css)
 
 ## 🤔 Interested ...
-![My Interested Skills](https://skillicons.dev/icons?&i=nextjs,rust,kotlin)
+![My Interested Skills](https://skillicons.dev/icons?&i=rust,kotlin)
 
 
 
