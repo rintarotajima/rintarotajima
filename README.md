@@ -1,22 +1,16 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Whats' up ?
 
-- 🧑🏻‍💻 I'm a Front-end developer (Student).
-- ✨ Currently, I'm learning React.
-- 🪂 Wanna participate in Hackthons or contribute to OSS in the near future.
-
-## 🔭 Activities
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=transparent&show_icons=ture&hide_border=true)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rintarotajima&theme=transparent)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rintarotajima&theme=transparent)
 
+## 🌱 Products
 
-## ⚡ Skills
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css)
-
-## 🤔 Interested ...
-![My Interested Skills](https://skillicons.dev/icons?&i=rust,kotlin)
-
-
+| Name | Tech Stack |
+| ---  | ---   |
+| [Tastle](https://github.com/rintarotajima/Tastle) | React, TypeScript, Tailwind CSS |
+## 📫 Link
+- [Zenn](https://zenn.dev/rintarotajima)
+- [Qiita](https://qiita.com/rintarotajima)
 
 
 
@@ -25,7 +19,7 @@ This repository is a ✨ _special_ ✨ repository because its `README.md` (this 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...- 🔭 現在取り組んでいる...
+- 🔭 I’m currently working on ...- 🔭 現在取り組んでいる...- 🔭 現在取り組んでいます...- 🔭 現在取り組んでいる...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...- 🤔 助けを求めています...
