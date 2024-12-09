@@ -4,10 +4,11 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rintarotajima&theme=transparent)
 
 ## 🌱 Products
+| Name | Relevant URL | Tech Stack |
+| ---  | ---   | --- |
+| [Tastle](https://github.com/rintarotajima/Tastle) | [URL](https://tastle.vercel.app/) | React, TypeScript, Tailwind CSS |
 
-| Name | Tech Stack |
-| ---  | ---   |
-| [Tastle](https://github.com/rintarotajima/Tastle) | React, TypeScript, Tailwind CSS |
+
 ## 📫 Link
 - [Zenn](https://zenn.dev/rintarotajima)
 - [Qiita](https://qiita.com/rintarotajima)
