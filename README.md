@@ -1,5 +1,3 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Whats' up ?
-
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=rintarotajima&theme=transparent&show_icons=ture&hide_border=true)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rintarotajima&theme=transparent)
 
