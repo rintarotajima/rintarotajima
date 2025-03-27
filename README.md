@@ -4,12 +4,14 @@
 ## 🌱 Products
 | Name | Relevant URL | Tech Stack |
 | ---  | ---   | --- |
+| [University-lab-site](https://github.com/rintarotajima/university-lab-site/) | [URL(停止済み)](https://rintarotajima.github.io/university-lab-site/) | HTML, CSS, JavaScript |
 | [Tastle](https://github.com/rintarotajima/Tastle) | [URL](https://tastle.vercel.app/) | React, TypeScript, Tailwind CSS |
 
 
 ## 📫 Link
-- [Zenn](https://zenn.dev/rintarotajima)
+- [Hatena Blog](https://blog.hatena.ne.jp/rintarotajima/rt0125.hatenablog.com/)
 - [Qiita](https://qiita.com/rintarotajima)
+- [Zenn](https://zenn.dev/rintarotajima)
 
 
 
