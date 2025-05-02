@@ -2,10 +2,11 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rintarotajima&theme=transparent)
 
 ## 🌱 Products
-| Name | Relevant URL | Tech Stack |
+| Name | Article | Tech Stack |
 | ---  | ---   | --- |
-| [University-lab-site](https://github.com/rintarotajima/university-lab-site/) | [URL(停止済み)](https://rintarotajima.github.io/university-lab-site/) | HTML, CSS, JavaScript |
-| [Tastle](https://github.com/rintarotajima/Tastle) | [URL](https://tastle.vercel.app/) | React, TypeScript, Tailwind CSS |
+| [Memo-Calculator](https://github.com/rintarotajima/MemoCalculator) | 準備中 | Kotlin, Jetpack Compose, Material3
+| [University-lab-site](https://github.com/rintarotajima/university-lab-site/) | [Google Slides](https://docs.google.com/presentation/d/1h2RC8q5NnT5RvusH7S2Ex05KWRV3i9fon8SgP9NrO74/edit?usp=sharing) | HTML, CSS, JavaScript |
+| [Tastle](https://github.com/rintarotajima/Tastle) | [Zenn](https://zenn.dev/rintarotajima/articles/1d0c0827271321) | React, TypeScript, Tailwind CSS |
 
 
 ## 📫 Link
