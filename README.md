@@ -4,7 +4,7 @@
 ## 🌱 Products
 | Name | Article | Tech Stack |
 | ---  | ---   | --- |
-| [Memo-Calculator](https://github.com/rintarotajima/MemoCalculator) | 準備中 | Kotlin, Jetpack Compose, Material3
+| [Memo-Calculator](https://github.com/rintarotajima/MemoCalculator) | [Google Slides](https://docs.google.com/presentation/d/1tH4AyIQcCLOzg0q4TDhbO42SI41Iif3fwCcNY7uEBhg/edit?usp=sharing) | Kotlin, Jetpack Compose, Material3
 | [University-lab-site](https://github.com/rintarotajima/university-lab-site/) | [Google Slides](https://docs.google.com/presentation/d/1h2RC8q5NnT5RvusH7S2Ex05KWRV3i9fon8SgP9NrO74/edit?usp=sharing) | HTML, CSS, JavaScript |
 | [Tastle](https://github.com/rintarotajima/Tastle) | [Zenn](https://zenn.dev/rintarotajima/articles/1d0c0827271321) | React, TypeScript, Tailwind CSS |
 
